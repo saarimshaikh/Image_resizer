@@ -2,9 +2,7 @@
 
 Electron application that allows you to select an image and easily change the width and/or height.
 
-<div style="display: flex; justify-content: center">
-<img src="./assets/screen.png" width="400" />
-</div>
+https://github.com/saarimshaikh/Image_resizer/assets/65160026/9bc3f5ac-a73e-487a-ab3c-712f9ac91989
 
 ## Usage
 
